@@ -1,0 +1,13 @@
+{
+  "ua_block": [
+    "CCBot",
+    "Bytespider"
+  ],
+  "redirects": {
+    "/blog/pfas-2023": "/blog/pfas",
+    "/blog/pfas": "/learn/guides/pfas",
+    "/shop/pitcher": "/filters/pitcher"
+  },
+  "headers": {},
+  "js_only": []
+}

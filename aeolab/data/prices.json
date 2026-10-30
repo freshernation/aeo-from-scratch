@@ -1,0 +1,46 @@
+{
+  "checked": "2026-10-30",
+  "engines": {
+    "claude": {
+      "model": "claude-opus-5-5",
+      "search_per_1k": 10.0,
+      "input_per_mtok": 4.0,
+      "output_per_mtok": 20.0,
+      "source": "docs.claude.com web search tool page; model prices from Anthropic's model table"
+    },
+    "openai": {
+      "model": null,
+      "search_per_1k": 10.0,
+      "input_per_mtok": null,
+      "output_per_mtok": null,
+      "source": "platform.openai.com/docs/pricing: web search $10.00 / 1k calls plus search content tokens at model rates; model left for you to choose and price"
+    },
+    "perplexity": {
+      "model": "sonar",
+      "search_per_1k": null,
+      "input_per_mtok": null,
+      "output_per_mtok": null,
+      "source": "docs.perplexity.ai pricing: request fee by search context size plus tokens; not filled in"
+    },
+    "panel": {
+      "model": "course",
+      "search_per_1k": 0.0,
+      "input_per_mtok": 0.0,
+      "output_per_mtok": 0.0,
+      "source": "offline"
+    },
+    "engine_b": {
+      "model": "course",
+      "search_per_1k": 0.0,
+      "input_per_mtok": 0.0,
+      "output_per_mtok": 0.0,
+      "source": "offline"
+    }
+  },
+  "assumptions": {
+    "searches_per_answer": 2,
+    "input_tokens_per_answer": 8000,
+    "output_tokens_per_answer": 600,
+    "note": "course assumptions, not measurements: read usage from your first live run and replace them"
+  }
+}

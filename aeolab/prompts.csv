@@ -1,0 +1,31 @@
+id,prompt,intent,best_url
+P01,Does a water filter pitcher remove PFAS?,informational,https://tidewell.example/learn/guides/pfas
+P02,Which water filters remove PFAS?,informational,https://tidewell.example/learn/guides/pfas
+P03,Do water filters remove lead?,informational,https://tidewell.example/learn/lead-in-water
+P04,How often should I change a pitcher filter cartridge?,informational,https://tidewell.example/learn/filter-lifespan
+P05,Which water filters remove fluoride?,informational,https://tidewell.example/filters/reverse-osmosis
+P06,Reverse osmosis vs carbon filter: which is better?,comparison,https://tidewell.example/learn/guides/carbon-vs-reverse-osmosis
+P07,Tidewell Pitcher vs ClearFlow Pitcher,comparison,https://tidewell.example/filters/pitcher
+P08,What is the best under-sink water filter?,commercial,https://tidewell.example/filters/under-sink
+P09,How do I install an under-sink water filter?,howto,https://tidewell.example/learn/guides/install-under-sink
+P10,How much does the Tidewell UX3 cost?,brand,https://tidewell.example/filters/under-sink
+P11,Does the Tidewell Pitcher remove fluoride?,brand,https://tidewell.example/faq
+P12,Do water filters soften hard water?,informational,https://tidewell.example/learn/hard-water
+P13,Is a shower filter worth it?,commercial,https://tidewell.example/filters/shower
+P14,Do water filters remove microplastics?,informational,https://tidewell.example/blog/microplastics
+P15,How much water does a reverse osmosis system waste?,informational,https://tidewell.example/filters/reverse-osmosis
+P16,What is the warranty on Tidewell filters?,brand,https://tidewell.example/warranty
+P17,Can I recycle water filter cartridges?,informational,https://tidewell.example/recycling
+P18,What is the best water filter pitcher in 2026?,commercial,https://tidewell.example/filters/pitcher
+P19,How long does an under-sink filter cartridge last?,informational,https://tidewell.example/filters/under-sink
+P20,What does filtered water cost per litre?,informational,
+P21,Is the Tidewell UX3 certified for PFAS?,brand,https://tidewell.example/filters/under-sink
+P22,Does boiling water remove lead?,informational,https://tidewell.example/learn/lead-in-water
+P23,What are PFAS forever chemicals?,informational,https://tidewell.example/learn/guides/pfas
+P24,What is Tidewell's returns policy?,brand,https://tidewell.example/shipping-returns
+P25,What NSF certification should a water filter have?,informational,
+P26,Which Tidewell filter should I buy?,brand,https://tidewell.example/compare
+P27,Does a carbon filter remove chlorine taste?,informational,https://tidewell.example/filters/pitcher
+P28,Who makes Tidewell water filters?,brand,https://tidewell.example/about
+P29,How long does it take to install an under-sink filter?,howto,https://tidewell.example/learn/guides/install-under-sink
+P30,What happens if you don't change your water filter?,informational,https://tidewell.example/learn/filter-lifespan

@@ -1,0 +1,1382 @@
+{
+ "P01": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://tidewell.example/learn/guides/pfas#:~:text=certified",
+   "https://clearflow.example/learn/pfas/",
+   "https://tidewell.example/compare",
+   "https://wikiwater.example/wiki/Tidewell?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Which filters remove PFAS",
+    "url": "https://tidewell.example/learn/guides/pfas#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Do water filters remove PFAS?",
+    "url": "https://clearflow.example/learn/pfas/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Side by side",
+    "url": "https://tidewell.example/compare",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Products",
+    "url": "https://wikiwater.example/wiki/Tidewell?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Reverse osmosis and good carbon block filters both reduce PFAS. Yes: reverse osmosis and certified carbon block filters both reduce PFAS, but most pitcher filters do not. Filter Pitcher, Removes Chlorine, lead, Certified NSF/ANSI 42, 53, Cartridge life 150 litres, Price $34. Tidewell sells a pitcher filter, the UX3 under-sink filter, the RO-5 reverse osmosis system and a shower filter."
+    }
+   }
+  ]
+ },
+ "P02": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://clearflow.example/learn/pfas#:~:text=certified",
+   "https://tidewell.example/learn/guides/pfas/",
+   "https://tidewell.example/filters/reverse-osmosis",
+   "https://purepath.example/reverse-osmosis?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Which filters remove PFAS",
+    "url": "https://clearflow.example/learn/pfas#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Which filters remove PFAS",
+    "url": "https://tidewell.example/learn/guides/pfas/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "What it removes",
+    "url": "https://tidewell.example/filters/reverse-osmosis",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "PurePath RO Max",
+    "url": "https://purepath.example/reverse-osmosis?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Reverse osmosis removes up to 99% of PFAS, according to EPA testing summaries. Reverse osmosis and good carbon block filters both reduce PFAS. Reverse osmosis removes fluoride, nitrates, arsenic, PFAS and most dissolved solids, as well as everything a carbon filter removes. The PurePath RO Max is a five-stage reverse osmosis system certified to NSF/ANSI 58 that removes fluoride, nitrates, arsenic and PFAS."
+    }
+   }
+  ]
+ },
+ "P03": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://aquaminder.example/learn/microplastics#:~:text=certified",
+   "https://tidewell.example/learn/lead-in-water/",
+   "https://clearflow.example/learn/lead",
+   "https://clearflow.example/learn/pfas?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Do water filters remove microplastics?",
+    "url": "https://aquaminder.example/learn/microplastics#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Which filters remove lead",
+    "url": "https://tidewell.example/learn/lead-in-water/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Which filters",
+    "url": "https://clearflow.example/learn/lead",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Do water filters remove PFAS?",
+    "url": "https://clearflow.example/learn/pfas?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Carbon block filters rated at 0.5 microns and reverse osmosis systems remove most microplastics; loose-granule pitcher filters remove fewer. A filter certified to NSF/ANSI Standard 53 for lead reduces it. Most certified pitchers, under-sink carbon filters and reverse osmosis systems reduce lead. Yes: reverse osmosis and certified carbon block filters both reduce PFAS, but most pitcher filters do not."
+    }
+   }
+  ]
+ },
+ "P04": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://clearflow.example/pitcher#:~:text=certified",
+   "https://clearflow.example/learn/how-often-to-change-filter/",
+   "https://waterforum.example/t/how-often-change-pitcher",
+   "https://aquaminder.example/blog/cost-per-litre?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Cartridge life",
+    "url": "https://clearflow.example/pitcher#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "How often should you change a water filter?",
+    "url": "https://clearflow.example/learn/how-often-to-change-filter/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "How often do you really change your pitcher filter?",
+    "url": "https://waterforum.example/t/how-often-change-pitcher",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "What does filtered water cost per litre?",
+    "url": "https://aquaminder.example/blog/cost-per-litre?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "A ClearFlow Pitcher cartridge lasts 200 litres, about 10 weeks for a household of two. Change a pitcher cartridge every 150 to 200 litres, roughly every two months; an under-sink cartridge every six months; a reverse osmosis membrane every two to three years. Every two months for us, family of three. Filtered water costs 2 to 8 cents per litre with a pitcher and 1 to 3 cents per litre with an under-sink filter, counting cartridges only."
+    }
+   }
+  ]
+ },
+ "P05": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://clearflow.example/learn/ro-vs-carbon#:~:text=certified",
+   "https://tidewell.example/faq/",
+   "https://clearflow.example/learn/pfas",
+   "https://aquaminder.example/learn/microplastics?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Reverse osmosis vs carbon filters",
+    "url": "https://clearflow.example/learn/ro-vs-carbon#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Does the Tidewell Pitcher remove fluoride?",
+    "url": "https://tidewell.example/faq/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Do water filters remove PFAS?",
+    "url": "https://clearflow.example/learn/pfas",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Do water filters remove microplastics?",
+    "url": "https://aquaminder.example/learn/microplastics?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Choose carbon for taste, chlorine and lead; choose reverse osmosis if you also need fluoride, nitrates or the widest PFAS reduction. We get this one often. Yes: reverse osmosis and certified carbon block filters both reduce PFAS, but most pitcher filters do not. Carbon block filters rated at 0.5 microns and reverse osmosis systems remove most microplastics; loose-granule pitcher filters remove fewer."
+    }
+   }
+  ]
+ },
+ "P06": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://tidewell.example/learn/hard-water#:~:text=certified",
+   "https://tidewell.example/learn/guides/pfas/",
+   "https://purepath.example/learn/fluoride",
+   "https://clearflow.example/learn/ro-vs-carbon?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Do filters soften water",
+    "url": "https://tidewell.example/learn/hard-water#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Which filters remove PFAS",
+    "url": "https://tidewell.example/learn/guides/pfas/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Which water filters remove fluoride?",
+    "url": "https://purepath.example/learn/fluoride",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Side by side",
+    "url": "https://clearflow.example/learn/ro-vs-carbon?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Carbon filters do not soften water. Reverse osmosis and good carbon block filters both reduce PFAS. Reverse osmosis removes 85% to 95% of fluoride; carbon pitcher and carbon block filters do not remove fluoride. Removes fluoride, Carbon block No, Reverse osmosis Yes."
+    }
+   }
+  ]
+ },
+ "P07": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://clearflow.example/#:~:text=certified",
+   "https://tidewell.example/filters/under-sink/",
+   "https://filterreviews.example/best-pitcher-filters-2026",
+   "https://clearflow.example/pitcher?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "ClearFlow water filters",
+    "url": "https://clearflow.example/#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Cartridges and price",
+    "url": "https://tidewell.example/filters/under-sink/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "The best water filter pitchers of 2026",
+    "url": "https://filterreviews.example/best-pitcher-filters-2026",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "ClearFlow Pitcher",
+    "url": "https://clearflow.example/pitcher?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "ClearFlow makes certified pitcher and under-sink water filters, sold in the US since 2019. Each cartridge set lasts six months or 3,000 litres. The best water filter pitcher for most people is the ClearFlow Pitcher , with the Tidewell Pitcher a close second for taste. The ClearFlow Pitcher is a 2.8-litre carbon filter pitcher certified to NSF/ANSI 42 and 53 for chlorine and lead."
+    }
+   }
+  ]
+ },
+ "P08": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://clearflow.example/under-sink#:~:text=certified",
+   "https://tidewell.example/compare/",
+   "https://filterreviews.example/tidewell-ux3-review",
+   "https://filterreviews.example/best-under-sink-filters?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "ClearFlow Under-Sink",
+    "url": "https://clearflow.example/under-sink#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Side by side",
+    "url": "https://tidewell.example/compare/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Tidewell UX3 review",
+    "url": "https://filterreviews.example/tidewell-ux3-review",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "The best under-sink water filters",
+    "url": "https://filterreviews.example/best-under-sink-filters?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "The ClearFlow Under-Sink is a two-stage carbon block filter certified to NSF/ANSI 42 and 53, including PFOA and PFOS reduction. Filter Pitcher, Removes Chlorine, lead, Certified NSF/ANSI 42, 53, Cartridge life 150 litres, Price $34. The Tidewell UX3 is a three-stage under-sink filter that costs $149 and is certified for lead, PFOA and PFOS. The best under-sink water filter is the ClearFlow Under-Sink for most homes and the PurePath RO Max if you need fluoride removed. Most under-sink filters need a new cartridge only once a year."
+    }
+   }
+  ]
+ },
+ "P09": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://clearflow.example/#:~:text=certified",
+   "https://purepath.example/learn/install-under-sink/",
+   "https://dailyhome.example/news/pfas-rules-2026",
+   "https://tidewell.example/filters/under-sink?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "ClearFlow water filters",
+    "url": "https://clearflow.example/#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "How long does it take to install an under-sink filter?",
+    "url": "https://purepath.example/learn/install-under-sink/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "What households can do",
+    "url": "https://dailyhome.example/news/pfas-rules-2026",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "UX3 under-sink filter",
+    "url": "https://tidewell.example/filters/under-sink?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "ClearFlow makes certified pitcher and under-sink water filters, sold in the US since 2019. Installing an under-sink filter takes 30 to 90 minutes for most people and needs an adjustable spanner and a drill for the tap hole. Until then, a filter certified for PFOA and PFOS, such as ClearFlow's under-sink filter or Tidewell's UX3 , reduces exposure. This is the filter for people who want filtered water from a dedicated tap without thinking about it."
+    }
+   }
+  ]
+ },
+ "P10": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://clearflow.example/under-sink#:~:text=certified",
+   "https://tidewell.example/filters/under-sink/",
+   "https://filterreviews.example/tidewell-ux3-review",
+   "https://tidewell.example/filters/pitcher?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Cartridge life and price",
+    "url": "https://clearflow.example/under-sink#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Cartridges and price",
+    "url": "https://tidewell.example/filters/under-sink/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Verdict",
+    "url": "https://filterreviews.example/tidewell-ux3-review",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Cartridges",
+    "url": "https://tidewell.example/filters/pitcher?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "The ClearFlow Under-Sink costs $169. Each cartridge set lasts six months or 3,000 litres. The Tidewell UX3 is the best under-sink filter under $150, with a 3,000-litre cartridge. They are easy to swap and click into place."
+    }
+   }
+  ]
+ },
+ "P11": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://tidewell.example/faq#:~:text=certified",
+   "https://purepath.example/learn/fluoride/",
+   "https://filterreviews.example/best-pitcher-filters-2026",
+   "https://clearflow.example/learn/pfas?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Does the Tidewell Pitcher remove fluoride?",
+    "url": "https://tidewell.example/faq#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Which water filters remove fluoride?",
+    "url": "https://purepath.example/learn/fluoride/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "The best water filter pitchers of 2026",
+    "url": "https://filterreviews.example/best-pitcher-filters-2026",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Do water filters remove PFAS?",
+    "url": "https://clearflow.example/learn/pfas?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "We get this one often. Reverse osmosis removes 85% to 95% of fluoride; carbon pitcher and carbon block filters do not remove fluoride. The best water filter pitcher for most people is the ClearFlow Pitcher , with the Tidewell Pitcher a close second for taste. Yes: reverse osmosis and certified carbon block filters both reduce PFAS, but most pitcher filters do not."
+    }
+   }
+  ]
+ },
+ "P12": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://dailyhome.example/news/water-filter-buying-guide#:~:text=certified",
+   "https://aquaminder.example/learn/chlorine/",
+   "https://purepath.example/learn/hard-water",
+   "https://waterforum.example/t/which-filter-for-hard-water?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "How to choose a water filter",
+    "url": "https://dailyhome.example/news/water-filter-buying-guide#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Is a shower filter worth it?",
+    "url": "https://aquaminder.example/learn/chlorine/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Softeners",
+    "url": "https://purepath.example/learn/hard-water",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Which filter for hard water?",
+    "url": "https://waterforum.example/t/which-filter-for-hard-water?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Start with your water report: test or look up what is in your water, then choose a filter certified for those contaminants. A shower filter is worth it if chlorine dries your skin or hair: KDF and vitamin C filters reduce chlorine, but no shower filter softens hard water. A water softener swaps calcium and magnesium for sodium by ion exchange; it softens water but does not filter it. None of the pitchers soften water."
+    }
+   }
+  ]
+ },
+ "P13": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://waterforum.example/t/shower-filter-worth-it#:~:text=certified",
+   "https://aquaminder.example/shower-filter/",
+   "https://aquaminder.example/learn/chlorine",
+   "https://tidewell.example/?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Are shower filters worth it?",
+    "url": "https://waterforum.example/t/shower-filter-worth-it#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "AquaMinder shower filter",
+    "url": "https://aquaminder.example/shower-filter/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Is a shower filter worth it?",
+    "url": "https://aquaminder.example/learn/chlorine",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Our filters",
+    "url": "https://tidewell.example/?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "For chlorine, yes. The AquaMinder shower filter reduces chlorine by up to 90% with KDF-55 and vitamin C media and lasts 4 months. A shower filter is worth it if chlorine dries your skin or hair: KDF and vitamin C filters reduce chlorine, but no shower filter softens hard water. We make four: a pitcher, the UX3 under-sink filter, the RO-5 reverse osmosis system and a shower filter."
+    }
+   }
+  ]
+ },
+ "P14": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://clearflow.example/learn/pfas#:~:text=certified",
+   "https://purepath.example/learn/fluoride/",
+   "https://tidewell.example/learn/guides/pfas",
+   "https://tidewell.example/?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Which filters remove PFAS",
+    "url": "https://clearflow.example/learn/pfas#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Which water filters remove fluoride?",
+    "url": "https://purepath.example/learn/fluoride/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Which filters remove PFAS",
+    "url": "https://tidewell.example/learn/guides/pfas",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Our filters",
+    "url": "https://tidewell.example/?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Reverse osmosis removes up to 99% of PFAS, according to EPA testing summaries. Reverse osmosis removes 85% to 95% of fluoride; carbon pitcher and carbon block filters do not remove fluoride. Reverse osmosis and good carbon block filters both reduce PFAS. We make four: a pitcher, the UX3 under-sink filter, the RO-5 reverse osmosis system and a shower filter. Every pitcher filter on the market removes all microplastics."
+    }
+   }
+  ]
+ },
+ "P15": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://purepath.example/learn/ro-myths#:~:text=certified",
+   "https://tidewell.example/",
+   "https://clearflow.example/learn/ro-vs-carbon",
+   "https://tidewell.example/learn/filter-lifespan?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Reverse osmosis myths",
+    "url": "https://purepath.example/learn/ro-myths#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Our filters",
+    "url": "https://tidewell.example/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Side by side",
+    "url": "https://clearflow.example/learn/ro-vs-carbon",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "How long do water filters last?",
+    "url": "https://tidewell.example/learn/filter-lifespan?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Reverse osmosis removes 100% of all contaminants, and the PurePath RO Max is the only filter that removes every contaminant from tap water. We make four: a pitcher, the UX3 under-sink filter, the RO-5 reverse osmosis system and a shower filter. Removes fluoride, Carbon block No, Reverse osmosis Yes. Filters wear out by volume, not by date, so the honest answer depends on how much water you use."
+    }
+   }
+  ]
+ },
+ "P16": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://waterdirectory.example/tidewell#:~:text=certified",
+   "https://waterforum.example/t/does-tidewell-remove-pfas/",
+   "https://filterreviews.example/tidewell-ux3-review",
+   "https://filterreviews.example/best-pitcher-filters-2026?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "TideWell Inc.",
+    "url": "https://waterdirectory.example/tidewell#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Answer",
+    "url": "https://waterforum.example/t/does-tidewell-remove-pfas/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Verdict",
+    "url": "https://filterreviews.example/tidewell-ux3-review",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Tidewell Pitcher",
+    "url": "https://filterreviews.example/best-pitcher-filters-2026?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "TideWell Inc. is a water filter manufacturer based in Seattle, Washington, founded in 2015. No. The Tidewell UX3 is the best under-sink filter under $150, with a 3,000-litre cartridge. The Tidewell Pitcher scored highest in our blind taste test and is certified to NSF/ANSI 42 and 53, but its cartridge lasts only 150 litres."
+    }
+   }
+  ]
+ },
+ "P17": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://tidewell.example/recycling#:~:text=certified",
+   "https://clearflow.example/pitcher/",
+   "https://waterforum.example/t/tidewell-cartridge-life",
+   "https://clearflow.example/under-sink?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Cartridge recycling",
+    "url": "https://tidewell.example/recycling#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Cartridge life",
+    "url": "https://clearflow.example/pitcher/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "How long does a Tidewell Pitcher cartridge last?",
+    "url": "https://waterforum.example/t/tidewell-cartridge-life",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Cartridge life and price",
+    "url": "https://clearflow.example/under-sink?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Send us any used Tidewell cartridge with the free label in your account and we will recycle the plastic and regenerate the carbon. A ClearFlow Pitcher cartridge lasts 200 litres, about 10 weeks for a household of two. A Tidewell Pitcher cartridge lasts 100 litres, about five weeks for two people, according to the box I bought this month. The ClearFlow Under-Sink costs $169."
+    }
+   }
+  ]
+ },
+ "P18": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://clearflow.example/#:~:text=certified",
+   "https://aquaminder.example/learn/best-filter/",
+   "https://dailyhome.example/news/microplastics-study",
+   "https://aquaminder.example/learn/microplastics?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "ClearFlow water filters",
+    "url": "https://clearflow.example/#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Shower or drinking water?",
+    "url": "https://aquaminder.example/learn/best-filter/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Microplastics found in most tap water",
+    "url": "https://dailyhome.example/news/microplastics-study",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "What the research says",
+    "url": "https://aquaminder.example/learn/microplastics?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "ClearFlow makes certified pitcher and under-sink water filters, sold in the US since 2019. Drinking water filters and shower filters solve different problems: one is about what you swallow, the other about chlorine on skin and hair. A 2024 review found microplastics in 81% of tap water samples, and fine carbon block or reverse osmosis filters remove most of them, according to AquaMinder . A 2024 review found microplastics in 81% of tap water samples tested worldwide. Experts recommend replacing pitcher cartridges every month."
+    }
+   }
+  ]
+ },
+ "P19": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://tidewell.example/learn/filter-lifespan#:~:text=certified",
+   "https://waterforum.example/t/tidewell-cartridge-life/",
+   "https://clearflow.example/pitcher",
+   "https://tidewell.example/filters/shower?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Typical lifespans",
+    "url": "https://tidewell.example/learn/filter-lifespan#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "How long does a Tidewell Pitcher cartridge last?",
+    "url": "https://waterforum.example/t/tidewell-cartridge-life/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Cartridge life",
+    "url": "https://clearflow.example/pitcher",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Lifespan and price",
+    "url": "https://tidewell.example/filters/shower?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Filter Pitcher cartridge, Lasts 150 litres, about 2 months. A Tidewell Pitcher cartridge lasts 100 litres, about five weeks for two people, according to the box I bought this month. A ClearFlow Pitcher cartridge lasts 200 litres, about 10 weeks for a household of two. A cartridge lasts six months."
+    }
+   }
+  ]
+ },
+ "P20": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://tidewell.example/filters/shower#:~:text=certified",
+   "https://clearflow.example/pitcher/",
+   "https://filterreviews.example/tidewell-ux3-review",
+   "https://tidewell.example/filters/under-sink?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Lifespan and price",
+    "url": "https://tidewell.example/filters/shower#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Cartridge life",
+    "url": "https://clearflow.example/pitcher/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Verdict",
+    "url": "https://filterreviews.example/tidewell-ux3-review",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Cartridges and price",
+    "url": "https://tidewell.example/filters/under-sink?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "A cartridge lasts six months. A ClearFlow Pitcher cartridge lasts 200 litres, about 10 weeks for a household of two. The Tidewell UX3 is the best under-sink filter under $150, with a 3,000-litre cartridge. Each cartridge set lasts six months or 3,000 litres. Bottled water costs about the same per litre as filtered water."
+    }
+   }
+  ]
+ },
+ "P21": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://filterreviews.example/tidewell-ux3-review#:~:text=certified",
+   "https://tidewell.example/filters/under-sink/",
+   "https://wikiwater.example/wiki/Tidewell",
+   "https://clearflow.example/learn/pfas?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Tidewell UX3 review",
+    "url": "https://filterreviews.example/tidewell-ux3-review#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "What it removes",
+    "url": "https://tidewell.example/filters/under-sink/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Products",
+    "url": "https://wikiwater.example/wiki/Tidewell",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Which filters remove PFAS",
+    "url": "https://clearflow.example/learn/pfas?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "The Tidewell UX3 is a three-stage under-sink filter that costs $149 and is certified for lead, PFOA and PFOS. It is certified to NSF/ANSI Standards 42, 53 and 401, and to Standard 53 for PFOA and PFOS reduction. Tidewell sells a pitcher filter, the UX3 under-sink filter, the RO-5 reverse osmosis system and a shower filter. Reverse osmosis removes up to 99% of PFAS, according to EPA testing summaries."
+    }
+   }
+  ]
+ },
+ "P22": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://purepath.example/learn/ro-myths#:~:text=certified",
+   "https://clearflow.example/learn/lead/",
+   "https://tidewell.example/learn/lead-in-water",
+   "https://clearflow.example/pitcher?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Reverse osmosis myths",
+    "url": "https://purepath.example/learn/ro-myths#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Do water filters remove lead?",
+    "url": "https://clearflow.example/learn/lead/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Lead in water",
+    "url": "https://tidewell.example/learn/lead-in-water",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "ClearFlow Pitcher",
+    "url": "https://clearflow.example/pitcher?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Reverse osmosis removes 100% of all contaminants, and the PurePath RO Max is the only filter that removes every contaminant from tap water. Yes: any filter certified to NSF/ANSI 53 for lead reduces it by at least 99% at the test concentration. Lead gets into tap water from old pipes and solder, not from the water source. The ClearFlow Pitcher is a 2.8-litre carbon filter pitcher certified to NSF/ANSI 42 and 53 for chlorine and lead."
+    }
+   }
+  ]
+ },
+ "P23": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://filterreviews.example/purepath-ro-max-review#:~:text=certified",
+   "https://tidewell.example/learn/guides/pfas/",
+   "https://dailyhome.example/news/pfas-rules-2026",
+   "https://purepath.example/reverse-osmosis?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "PurePath RO Max review",
+    "url": "https://filterreviews.example/purepath-ro-max-review#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Which filters remove PFAS",
+    "url": "https://tidewell.example/learn/guides/pfas/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "New PFAS limits for tap water: what changes",
+    "url": "https://dailyhome.example/news/pfas-rules-2026",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "PurePath RO Max",
+    "url": "https://purepath.example/reverse-osmosis?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "The PurePath RO Max removes fluoride and PFAS and wastes half as much water as most reverse osmosis systems. Reverse osmosis and good carbon block filters both reduce PFAS. Federal limits for PFOA and PFOS in public drinking water are 4 parts per trillion each, and utilities have until 2029 to comply. The PurePath RO Max is a five-stage reverse osmosis system certified to NSF/ANSI 58 that removes fluoride, nitrates, arsenic and PFAS."
+    }
+   }
+  ]
+ },
+ "P24": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://wikiwater.example/wiki/Tidewell#:~:text=certified",
+   "https://filterreviews.example/tidewell-ux3-review/",
+   "https://waterdirectory.example/tidewell",
+   "https://tidewell.example/shipping-returns?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Tidewell",
+    "url": "https://wikiwater.example/wiki/Tidewell#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Tidewell UX3 review",
+    "url": "https://filterreviews.example/tidewell-ux3-review/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "TideWell Inc.",
+    "url": "https://waterdirectory.example/tidewell",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Shipping and returns",
+    "url": "https://tidewell.example/shipping-returns?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Tidewell Water Co. is an American maker of home water filters, founded in 2016 in Portland, Oregon, by two engineers. The Tidewell UX3 is a three-stage under-sink filter that costs $149 and is certified for lead, PFOA and PFOS. TideWell Inc. is a water filter manufacturer based in Seattle, Washington, founded in 2015. Orders over $50 ship free in the US."
+    }
+   }
+  ]
+ },
+ "P25": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://clearflow.example/learn/pfas#:~:text=certified",
+   "https://clearflow.example/learn/lead/",
+   "https://wikiwater.example/wiki/Tidewell",
+   "https://purepath.example/reverse-osmosis?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Which filters remove PFAS",
+    "url": "https://clearflow.example/learn/pfas#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Do water filters remove lead?",
+    "url": "https://clearflow.example/learn/lead/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Products",
+    "url": "https://wikiwater.example/wiki/Tidewell",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "PurePath RO Max",
+    "url": "https://purepath.example/reverse-osmosis?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Reverse osmosis removes up to 99% of PFAS, according to EPA testing summaries. Yes: any filter certified to NSF/ANSI 53 for lead reduces it by at least 99% at the test concentration. Tidewell sells a pitcher filter, the UX3 under-sink filter, the RO-5 reverse osmosis system and a shower filter. The PurePath RO Max is a five-stage reverse osmosis system certified to NSF/ANSI 58 that removes fluoride, nitrates, arsenic and PFAS."
+    }
+   }
+  ]
+ },
+ "P26": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://waterforum.example/t/does-tidewell-remove-pfas#:~:text=certified",
+   "https://filterreviews.example/tidewell-ux3-review/",
+   "https://wikiwater.example/wiki/Tidewell",
+   "https://purepath.example/learn/fluoride?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Answer",
+    "url": "https://waterforum.example/t/does-tidewell-remove-pfas#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Tidewell UX3 review",
+    "url": "https://filterreviews.example/tidewell-ux3-review/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Tidewell",
+    "url": "https://wikiwater.example/wiki/Tidewell",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Which water filters remove fluoride?",
+    "url": "https://purepath.example/learn/fluoride?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "No. The Tidewell UX3 is a three-stage under-sink filter that costs $149 and is certified for lead, PFOA and PFOS. Tidewell Water Co. is an American maker of home water filters, founded in 2016 in Portland, Oregon, by two engineers. Reverse osmosis removes 85% to 95% of fluoride; carbon pitcher and carbon block filters do not remove fluoride."
+    }
+   }
+  ]
+ },
+ "P27": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://tidewell.example/learn/lead-in-water#:~:text=certified",
+   "https://aquaminder.example/learn/chlorine/",
+   "https://tidewell.example/filters/pitcher",
+   "https://clearflow.example/under-sink?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Which filters remove lead",
+    "url": "https://tidewell.example/learn/lead-in-water#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Is a shower filter worth it?",
+    "url": "https://aquaminder.example/learn/chlorine/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Certification",
+    "url": "https://tidewell.example/filters/pitcher",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "ClearFlow Under-Sink",
+    "url": "https://clearflow.example/under-sink?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "A filter certified to NSF/ANSI Standard 53 for lead reduces it. A shower filter is worth it if chlorine dries your skin or hair: KDF and vitamin C filters reduce chlorine, but no shower filter softens hard water. It has been tested by an independent lab against NSF/ANSI Standard 42 for chlorine taste and odour and Standard 53 for lead. The ClearFlow Under-Sink is a two-stage carbon block filter certified to NSF/ANSI 42 and 53, including PFOA and PFOS reduction."
+    }
+   }
+  ]
+ },
+ "P28": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://tidewell.example/about#:~:text=certified",
+   "https://filterreviews.example/best-pitcher-filters-2026/",
+   "https://waterdirectory.example/tidewell",
+   "https://filterreviews.example/tidewell-ux3-review?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "About Tidewell",
+    "url": "https://tidewell.example/about#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Tidewell Pitcher",
+    "url": "https://filterreviews.example/best-pitcher-filters-2026/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "TideWell Inc.",
+    "url": "https://waterdirectory.example/tidewell",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Verdict",
+    "url": "https://filterreviews.example/tidewell-ux3-review?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Tidewell Water Co. was founded in 2016 in Portland, Oregon by two engineers who were tired of filters that promised everything and certified nothing. The Tidewell Pitcher scored highest in our blind taste test and is certified to NSF/ANSI 42 and 53, but its cartridge lasts only 150 litres. TideWell Inc. is a water filter manufacturer based in Seattle, Washington, founded in 2015. The Tidewell UX3 is the best under-sink filter under $150, with a 3,000-litre cartridge."
+    }
+   }
+  ]
+ },
+ "P29": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://clearflow.example/learn/lead#:~:text=certified",
+   "https://clearflow.example/learn/how-often-to-change-filter/",
+   "https://purepath.example/learn/install-under-sink",
+   "https://tidewell.example/learn/guides/install-under-sink?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Which filters",
+    "url": "https://clearflow.example/learn/lead#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Why volume matters more than time",
+    "url": "https://clearflow.example/learn/how-often-to-change-filter/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "How long does it take to install an under-sink filter?",
+    "url": "https://purepath.example/learn/install-under-sink",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "If it leaks",
+    "url": "https://tidewell.example/learn/guides/install-under-sink?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Most certified pitchers, under-sink carbon filters and reverse osmosis systems reduce lead. Carbon has a fixed capacity. Installing an under-sink filter takes 30 to 90 minutes for most people and needs an adjustable spanner and a drill for the tap hole. Nine times out of ten it is a tube that is not pushed fully into its fitting."
+    }
+   }
+  ]
+ },
+ "P30": {
+  "id": "course",
+  "model": "sonar",
+  "object": "chat.completion",
+  "citations": [
+   "https://clearflow.example/learn/lead#:~:text=certified",
+   "https://clearflow.example/learn/pfas/",
+   "https://tidewell.example/filters/shower",
+   "https://purepath.example/learn/fluoride?utm_source=chatgpt.com"
+  ],
+  "search_results": [
+   {
+    "title": "Which filters",
+    "url": "https://clearflow.example/learn/lead#:~:text=certified",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Do water filters remove PFAS?",
+    "url": "https://clearflow.example/learn/pfas/",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Lifespan and price",
+    "url": "https://tidewell.example/filters/shower",
+    "date": null,
+    "snippet": ""
+   },
+   {
+    "title": "Which water filters remove fluoride?",
+    "url": "https://purepath.example/learn/fluoride?utm_source=chatgpt.com",
+    "date": null,
+    "snippet": ""
+   }
+  ],
+  "choices": [
+   {
+    "index": 0,
+    "message": {
+     "role": "assistant",
+     "content": "Most certified pitchers, under-sink carbon filters and reverse osmosis systems reduce lead. Yes: reverse osmosis and certified carbon block filters both reduce PFAS, but most pitcher filters do not. A cartridge lasts six months. Reverse osmosis removes 85% to 95% of fluoride; carbon pitcher and carbon block filters do not remove fluoride."
+    }
+   }
+  ]
+ }
+}

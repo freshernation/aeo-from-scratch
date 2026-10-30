@@ -1,0 +1,13 @@
+{
+  "cloak": {
+    "/learn/ro-myths": {
+      "match": [
+        "bot",
+        "gpt",
+        "claude",
+        "perplexity"
+      ],
+      "file": "_cloak/learn/ro-myths.html"
+    }
+  }
+}

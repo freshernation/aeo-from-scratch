@@ -1,0 +1,7 @@
+id,prompt,intent,best_url
+P31,Where is Tidewell based?,brand,https://tidewell.example/about
+P32,When was Tidewell founded?,brand,https://tidewell.example/about
+P33,How long does a Tidewell Pitcher cartridge last?,brand,https://tidewell.example/filters/pitcher
+P34,How much does the Tidewell Pitcher cost?,brand,https://tidewell.example/filters/pitcher
+P35,What is the best water filter for every home?,commercial,
+P36,Does reverse osmosis remove all contaminants?,informational,https://tidewell.example/filters/reverse-osmosis

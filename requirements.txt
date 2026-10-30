@@ -1,0 +1,8 @@
+# Day zero, and every week
+pytest==9.2.0
+beautifulsoup4==4.15.0
+
+# Week 7 - live engines (optional; the tests never call them)
+httpx==0.28.1
+anthropic>=1.17,<2
+openai==3.41.0

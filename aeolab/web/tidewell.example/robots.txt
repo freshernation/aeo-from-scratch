@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /cart
+Disallow: /account
+Disallow: /learn/
+Allow: /learn/guides/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: https://tidewell.example/sitemap.xml

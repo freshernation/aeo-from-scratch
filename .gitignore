@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.env
+.DS_Store
+.vscode/
+
+# Files the exercises create when you run them by hand
+*.db
+*.sqlite
+*.tmp
+
+# --- Instructor materials -------------------------------------------------
+# instructor/ holds the plan, the reference solutions and the runbooks. It MUST
+# NOT reach the repo your students clone. Keep it in its own private repository.
+instructor/
+
+# Planning material - it lives in the instructor repository
+PLAN.md
+PENDING.md
+
+# Week 8: snapshots hold other sites' pages. They stay on your machine.
+week-08/site/snapshot/*
+!week-08/site/snapshot/.gitkeep

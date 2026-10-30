@@ -1,0 +1,24 @@
+{
+  "ua_block": [
+    "ClaudeBot",
+    "Claude-SearchBot",
+    "Claude-User",
+    "PerplexityBot",
+    "Perplexity-User",
+    "CCBot",
+    "Bytespider"
+  ],
+  "redirects": {
+    "/blog/pfas-2023": "/blog/pfas",
+    "/blog/pfas": "/learn/guides/pfas",
+    "/shop/pitcher": "/filters/pitcher"
+  },
+  "headers": {
+    "/warranty": {
+      "X-Robots-Tag": "noindex"
+    }
+  },
+  "js_only": [
+    "/compare"
+  ]
+}
